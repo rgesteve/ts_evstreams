@@ -1,0 +1,15 @@
+{
+  "name": "ts_evstreams",
+  "version": "0.0.1",
+  "description": "Simple workout on using typescript with nodejs' events and streams",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R. G. Esteves",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.12",
+    "typescript": "^3.2.2"
+  }
+}
